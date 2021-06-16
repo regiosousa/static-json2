@@ -1,0 +1,40 @@
+{
+  "videos": [
+    {
+      "title": "Unidade 1 - Aula 1",
+      "description": "Família e trabalho",
+      "thumb": "https://img.youtube.com/vi/EUyvmibK8l4/0.jpg",
+      "video": "https://www.youtube.com/watch?v=EUyvmibK8l4&ab_channel=FSSTGO"
+    },
+    {
+      "title": "Unidade 1 - Aula 2",
+      "description": "A mudança de um paradigma no mundo",
+      "thumb": "https://img.youtube.com/vi/hK38kOUBOBI/0.jpg",
+      "video": "https://www.youtube.com/watch?v=hK38kOUBOBI&ab_channel=FSSTGO"
+    },
+    {
+      "title": "Unidade 2 - Aula 1",
+      "description": "Os ciclos da vida familiar",
+      "thumb": "https://img.youtube.com/vi/sea79mnDX04/0.jpg",
+      "video": "https://www.youtube.com/watch?v=sea79mnDX04&ab_channel=FSSTGO"
+    },
+    {
+      "title": "Introdução e apresentação",
+      "description": "Curso home office e família",
+      "thumb": "https://img.youtube.com/vi/qpdmiAtFymo/0.jpg",
+      "video": "https://www.youtube.com/watch?v=qpdmiAtFymo&ab_channel=FSSTGO"
+    },
+    {
+      "title": "Saúde mental no trabalho",
+      "description": "Módulo 1",
+      "thumb": "https://img.youtube.com/vi/RmN2zWzHs4g/0.jpg",
+      "video": "https://www.youtube.com/watch?v=RmN2zWzHs4g&ab_channel=FSSTGO"
+    },
+    {
+      "title": "Auto lideração e auto determinação",
+      "description": "Auto lideração e auto determinação",
+      "thumb": "https://img.youtube.com/vi/jrjRMLln3OU/0.jpg",
+      "video": "https://www.youtube.com/watch?v=jrjRMLln3OU&ab_channel=FSSTGO"
+    }
+  ]
+}
